@@ -1,0 +1,7 @@
+css variables
+google font usage
+tailwind config customization
+-custom color
+-custom font
+
+daisy ui--> a tailwind component library

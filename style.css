@@ -1,0 +1,43 @@
+:root{
+    --primary-color:rgb(2, 65, 255);
+    --secondary-color:rgb(0, 120, 224);
+
+    background-color: white;
+}
+
+.parent > * {
+    margin: 10px 0px;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: white;
+    
+}
+
+.box1{
+    background-color:var(--primary-color) ;
+    height: 300px;
+    width: 300px;
+}
+
+.box2{
+    background-color:var(--primary-color) ;
+    height: 300px;
+    width: 300px;
+}
+
+.box3{
+    background-color:var(--primary-color) ;
+    height: 300px;
+    width: 300px;
+}
+
+.box4{
+    background-color:var(--primary-color) ;
+    height: 300px;
+    width: 300px;
+}
